@@ -10,10 +10,10 @@ import React from 'react';
 import {render} from 'react-dom';
 
 //import modularized Sass - we'll add this later on
-import './_main.scss'
+// import './_main.scss'
 
 //import individual components
-import SimpleHeader from './modules/header/simpleHeader.jsx';
+import SimpleHeader from './modules/header/SimpleHeader.jsx';
 
 //then we create the backbone of the app
 
